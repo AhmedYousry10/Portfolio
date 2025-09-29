@@ -701,7 +701,7 @@ code {
 }
 
 .menu-backdrop.open {
-  opacity: 1;
+  /* opacity: 1; */
   visibility: visible;
 }
 
