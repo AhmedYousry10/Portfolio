@@ -1697,10 +1697,10 @@ function initCodeAnimation() {
 
   const codeSnippet = `var me = new Person()
 {
-    Name = "Ahmed Helal",
+    Name = "Ahmed Yousry Helal",
     Role = "Software Engineer",
     Study = "Faculty of Engineering",
-    Passion = "Proffessional Web Development (.Net & Angular)",
+    Passion = "Professional Web Development (.Net & Angular)",
     Skills = new[] { "Frontend", "Backend", "SQL Server"},
     Dream = "To become a professional Software Engineer
     with AI skills"
