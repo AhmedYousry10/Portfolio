@@ -1720,6 +1720,7 @@ code {
 
   .timeline-marker {
     left: 0;
+    position: relative;
   }
 
   .timeline-dot {
